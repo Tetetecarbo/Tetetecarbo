@@ -17,7 +17,7 @@ I specialize in designing scalable ML pipelines, forecasting models, and analyzi
 
 - 🔍 Currently exploring: **LLMs**, **Monte Carlo Simulations**, **Energy Market Forecasting**
 - 💼 Previously at **OMIE** (Iberian Energy Market Operator), delivering 90%+ accurate AI models
-- 🧪 TFM: *“ChatGPT-4 vs DeepSeek-R1”* → Found 95% cost reduction with minimal performance tradeoff
+- 🧪 Final Research Project: *“ChatGPT-4 vs DeepSeek-R1”* → Found 95% cost reduction with minimal performance tradeoff
 
 ---
 
@@ -35,7 +35,7 @@ Simulated 7,000+ hours of renewable energy generation with autoregressive stocha
 
 ---
 
-### 🤖 ChatGPT-4 vs DeepSeek-R1 (TFM)
+### 🤖 ChatGPT-4 vs DeepSeek-R1 (Final Research Project)
 📍 `LaTeX` · `RLHF` · `Sparse Attention`  
 Analyzed 5+ architectural dimensions and visualized model pipelines in a 40+ page research report.
 
