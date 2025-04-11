@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Teresa Carbo
 
-🎓 Triple Master's Student in Computer Science- (Operations Research), Big Data & Industrial Engineering  
+🎓 Triple Master's Student in: Computer Science - (Operations Research) | Big Data | Industrial Engineering  
 💡 Data Science | Energy Forecasting | LLMs | AI for Sustainability  
 📍 Based in Chicago & Madrid
 
